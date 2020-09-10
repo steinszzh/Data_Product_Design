@@ -3,6 +3,14 @@
 
 ## Our project team is to develop a plan to improve message function on Canvas
 
+We start with how might we process and start with 100 ideas for improvement on the functionality
+https://docs.google.com/spreadsheets/u/0/d/15-5UwbV3nXO1G38_zcalrNdtuxnWnAPiwHMOmKStiGY/htmlview#
+
+And later we use rating or survey to help to narrow down our core functionality.
+
+
+Our final presentation is showed in the folder. 
+
 
 Here is the video for Value proposition of the project
 
