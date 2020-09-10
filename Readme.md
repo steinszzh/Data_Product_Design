@@ -10,6 +10,9 @@ https://hubblecontent.osi.office.net/contentsvc/videohostpage/video?lcid=1033&sy
 
 
 
-This is the video link for our prototype of Canvas message function.
+There are the video link for our prototype of Canvas message function. （two version by different team members）
+
+https://www.youtube.com/watch?v=6gH5vHaXSDc&t=11s
+
 
 https://www.youtube.com/watch?time_continue=1&v=pEqq2wt6ADg&feature=emb_logo
